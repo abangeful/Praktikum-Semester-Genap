@@ -1,6 +1,6 @@
 <?php
 //  1. Membuat koneksi ke database
-$konek_db = new mysqli("localhost", "root", "", "caca");
+$konek_db = new mysqli("localhost", "root", "", "db_karyawan");
 //  2. Periksa koneksi ke database
 if ($konek_db->connect_error) {
     die("koneksi gagal:" . $konek_db->connect_error);
