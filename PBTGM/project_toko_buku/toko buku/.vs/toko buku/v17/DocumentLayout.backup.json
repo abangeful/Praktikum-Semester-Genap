@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\dashboard_kasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|solutionrelative:dashboard_kasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\manajemen_buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|solutionrelative:manajemen_buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\halaman_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|solutionrelative:halaman_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\halaman_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|solutionrelative:halaman_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|c:\\users\\asus\\music\\tugas syaeful\\toko buku\\manajemen_buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|solutionrelative:manajemen_buku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|solutionrelative:dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2435EBC0-A30D-4D70-BD50-555A628BB165}|toko buku.csproj|solutionrelative:dashboard_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard_kasir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\dashboard_kasir.cs",
+              "RelativeDocumentMoniker": "dashboard_kasir.cs",
+              "ToolTip": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\dashboard_kasir.cs [Design]",
+              "RelativeToolTip": "dashboard_kasir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:19:32.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboard_admin.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\dashboard_admin.cs",
+              "RelativeDocumentMoniker": "dashboard_admin.cs",
+              "ToolTip": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\dashboard_admin.cs",
+              "RelativeToolTip": "dashboard_admin.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA4wDAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:07:34.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:06:43.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manajemen_buku.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\manajemen_buku.cs",
+              "RelativeDocumentMoniker": "manajemen_buku.cs",
+              "ToolTip": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\manajemen_buku.cs",
+              "RelativeToolTip": "manajemen_buku.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAMwHUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:07:33.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "manajemen_buku.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\manajemen_buku.cs",
+              "RelativeDocumentMoniker": "manajemen_buku.cs",
+              "ToolTip": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\manajemen_buku.cs [Design]",
+              "RelativeToolTip": "manajemen_buku.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:07:36.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dashboard_admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\dashboard_admin.cs",
+              "RelativeDocumentMoniker": "dashboard_admin.cs",
+              "ToolTip": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\dashboard_admin.cs [Design]",
+              "RelativeToolTip": "dashboard_admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:07:39.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "halaman_login.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\halaman_login.cs",
+              "RelativeDocumentMoniker": "halaman_login.cs",
+              "ToolTip": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\halaman_login.cs",
+              "RelativeToolTip": "halaman_login.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:07:39.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "halaman_login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\halaman_login.cs",
+              "RelativeDocumentMoniker": "halaman_login.cs",
+              "ToolTip": "C:\\Users\\Asus\\Music\\Tugas Syaeful\\toko buku\\halaman_login.cs [Design]",
+              "RelativeToolTip": "halaman_login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:07:39.724Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

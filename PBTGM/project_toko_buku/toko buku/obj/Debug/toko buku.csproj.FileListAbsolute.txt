@@ -1,0 +1,27 @@
+D:\ProgrammerOnly\toko buku\obj\Debug\toko buku.csproj.AssemblyReference.cache
+D:\ProgrammerOnly\toko buku\obj\Debug\toko_buku.Form1.resources
+D:\ProgrammerOnly\toko buku\obj\Debug\toko_buku.Form2.resources
+D:\ProgrammerOnly\toko buku\obj\Debug\toko_buku.Form3.resources
+D:\ProgrammerOnly\toko buku\obj\Debug\toko_buku.Properties.Resources.resources
+D:\ProgrammerOnly\toko buku\obj\Debug\toko buku.csproj.GenerateResource.cache
+D:\ProgrammerOnly\toko buku\obj\Debug\toko buku.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko buku.csproj.AssemblyReference.cache
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko_buku.Properties.Resources.resources
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko buku.csproj.GenerateResource.cache
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko buku.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\bin\Debug\toko buku.exe.config
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\bin\Debug\toko buku.exe
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\bin\Debug\toko buku.pdb
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\bin\Debug\MySql.Data.dll
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\bin\Debug\System.Memory.dll
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko buku.csproj.Up2Date
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko buku.exe
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko buku.pdb
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko_buku.halaman_login.resources
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko_buku.dashboard_admin.resources
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko_buku.manajemen_buku.resources
+C:\Users\Asus\Music\Tugas Syaeful\toko buku\obj\Debug\toko_buku.dashboard_kasir.resources
