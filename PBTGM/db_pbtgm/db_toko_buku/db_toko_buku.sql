@@ -1,10 +1,10 @@
--- Active: 1729062427921@@127.0.0.1@3306@db_tokobuku
+-- Active: 1729038993384@@127.0.0.1@3306@db_tokobuku
 
 CREATE DATABASE db_tokoBuku;
 
 -- Membuat database
 CREATE DATABASE IF NOT EXISTS toko_buku;
-USE toko_buku;
+USE tokoapp;
 
 
 CREATE TABLE users (
@@ -108,3 +108,24 @@ INSERT INTO books (id_buku, kode_buku, judul, pengarang, penerbit, harga, stok) 
 
 SELECT judul FROM books WHERE id_buku LIKE @keyword OR kode_buku LIKE @keyword OR judul LIKE @keyword
 LIMIT 5;
+
+INSERT INTO
+    books (
+        id_buku,
+        kode_buku,
+        judul,
+        pengarang,
+        penerbit,
+        harga,
+        stok
+    )
+VALUES
+(
+    '51',
+    'KB051',
+    'Pemrograman Kotlin',
+    'Rachel Adams',
+    'AndroidBooks',
+    80,
+    4
+);
